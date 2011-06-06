@@ -1,0 +1,2 @@
+h1. HTML Lorem Ipsum Crash Test
+is a HTML template for testing your CSS. It simulates natural HTML elements interaction.
