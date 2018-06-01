@@ -1,11 +1,11 @@
 HTML Lorem Ipsum Crash Test
 -----
-HTML Lorem Ipsum Crash Test is HTML template for testing your CSS. It simulates natural HTML elements interaction.
+HTML Lorem Ipsum Crash Test is HTML template for testing your CSS. It simulates natural HTML elements interaction. Great for testing CSS Layouts and Frameworks.
 
 Demo:
 -----
 
-[HTML Lorem Ipsum Crash Test](http://dl.dropbox.com/u/2111778/HTML-Lorem-Ipsum-Crash-Test.html) 
+[HTML Lorem Ipsum Crash Test](http://vladocar.github.io/HTML-Lorem-Ipsum-Crash-Test/) 
 
 
 
